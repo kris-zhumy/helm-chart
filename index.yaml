@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   my-demo:
   - apiVersion: v2
+    appVersion: 1.17.0
+    created: "2024-07-03T14:28:34.335160685+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 4cee19e45f522ec7cce7dd14f171cc3981a78f33aef0018d8c1261d859f47a2b
+    name: my-demo
+    type: application
+    urls:
+    - https://kris-zhumy.github.io/helm-chart/my-demo-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-03T13:39:23.489593384+08:00"
+    created: "2024-07-03T14:28:34.334942259+08:00"
     description: A Helm chart for Kubernetes
     digest: 4e3542193a4da4d8f306c9e81d635879a0a9cd747bde500f93e2b2fb6404a10c
     name: my-demo
@@ -13,7 +23,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-03T13:39:23.488559189+08:00"
+    created: "2024-07-03T14:28:34.334583718+08:00"
     description: A Helm chart for Kubernetes
     digest: eb754a47f6879c93cebfb7c1b5b14f582e2d2b098b96247687aa2bb7b0826f21
     name: my-demo
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://kris-zhumy.github.io/helm-chart/my-demo-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-03T13:39:23.488162952+08:00"
+generated: "2024-07-03T14:28:34.334060961+08:00"
